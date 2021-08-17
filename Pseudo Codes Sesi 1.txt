@@ -1,0 +1,22 @@
+Algoritma
+Kasus : Mencari Barang Dalam Suatu Tabel Menggunakan Nomor Angka
+
+Aproach 1 : Mencari per baris
+Aproach 2 : Mencari setiap 5 baris
+
+Pseudo-code :
+- Aproach 1
+1 Input nomor kode barang
+2 Lihat daftar tabel
+3 If kode barang tidak ada
+4 	Pindah ke baris bawah tambah 1
+5 Else
+6 Cetak baris keberapa kode angka keluar
+
+- Aproach 2
+1 Input nomor kode barang
+2 Lihat daftar tabel
+3 If kode barang tidak ada 
+4 	Pindah ke baris bawah tambah 5
+5 Else
+6 Cetak baris keberapa kode angka keluar
